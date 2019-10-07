@@ -29,7 +29,7 @@
   }
 
   ul {
-    list-syle-type: none;
+    list-style-type: none;
     padding: 0;
   }
 
